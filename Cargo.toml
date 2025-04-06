@@ -11,3 +11,5 @@ path = "src/main.rs"   # Points to your main file
 anyhow = "1.0"
 tokio = { version = "1.44.2", features = ["full"] }
 url = "2.4"
+regex = "1"
+rpassword = "7.2.0"
