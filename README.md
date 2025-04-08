@@ -35,6 +35,12 @@ Connect to a specific server using --<ip:port> syntax:
 ```bash
 cargo run --192.168.1.100:5000
 ```
+run 
+```bash
+cargo run --20.169.221.119:4000 to get access to the online db 
+```
+
+
 
 ### REPL Commands
 Once connected:
